@@ -1,3 +1,4 @@
+![Banner](assets/banner.png)
 # SDXL Studio — Stable Diffusion XL API
 
 > A Python wrapper & web UI for generating stunning AI images via Stable Diffusion XL — no API key required.
